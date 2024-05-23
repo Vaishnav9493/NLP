@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Nov 24 12:55:52 2019
+Created on tue may 21 12:55:52 2024
 
-@author: krish.naik
-"""
+@author: vai.shnav
 import nltk
 
 from gensim.models import Word2Vec
